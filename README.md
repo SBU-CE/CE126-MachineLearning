@@ -1,5 +1,10 @@
 # Machine-Learning
-Machine Learning course - Dr.Malek
+
+### Machine Learning course - Dr.Malek
+
+<div align='center'>
+      <img src='.img/ci.jpg' />
+</div>
 
 | Semester  | Link |
 |-----------|------|
