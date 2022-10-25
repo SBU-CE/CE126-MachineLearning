@@ -1,4 +1,7 @@
 
+### Course Instructor
+
+**Dr. Hamed Malek**
 ### Links
 
 - [Landing Page](http://sbu-ce.ir/ml-fall-1401-dr-malek/)
