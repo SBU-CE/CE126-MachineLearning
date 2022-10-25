@@ -1,6 +1,6 @@
 # Machine-Learning
 
-### Machine Learning course - Dr.Malek
+### Machine Learning course - Shahid Beheshti University
 
 <div align='center'>
       <img src='.img/ci.jpg' />
