@@ -6,6 +6,6 @@
       <img src='.img/ci.jpg' />
 </div>
 
-| Semester  | Link |
-|-----------|------|
-| Fall 2022 |  [01-Fall2022](01-Fall2022/)    |
+| Semester             | Link |
+|----------------------|------|
+| Fall 2022 - Dr.Malek |  [01-Fall2022](01-Fall2022/)    |
