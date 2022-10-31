@@ -8,4 +8,4 @@
 
 | Semester             | Link |
 |----------------------|------|
-| Fall 2022 - Dr.Malek |  [01-Fall2022](01-Fall2022/)    |
+| Fall 2022 - Dr.Malek |  [01-Fall2022](01-Fall2022-Dr.Malek/)    |
