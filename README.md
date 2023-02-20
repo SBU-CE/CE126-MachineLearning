@@ -9,7 +9,7 @@
 | Semester             | Link |
 |----------------------|------|
 | Fall 2022 - Dr.Malek   |  [01-Fall2022](01-Fall2022-Dr.Malek/)        |
-| Spring 2023 - Dr.Malek |  [02-Spring2023](01-Spring2023-Dr.Malek/)    |
+| Spring 2023 - Dr.Malek |  [02-Spring2023](02-Spring2023-Dr.Malek/)    |
 
 ### Current TAs
 - [Faezeh Sarlakifar]()
