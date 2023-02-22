@@ -12,7 +12,7 @@
 | Spring 2023 - Dr.Malek |  [02-Spring2023](02-Spring2023-Dr.Malek/)    |
 
 ### Current TAs
-- [Faezeh Sarlakifar]()
+- [Faezeh Sarlakifar](https://github.com/faezesarlakifar)
 - [Zahra Khotanlou](https://github.com/zkhotanlou)
 - [Mahdi Masoompour](https://github.com/masoom80)
 - [Amir Masoud Shaker](https://github.com/MasoudShaker)
