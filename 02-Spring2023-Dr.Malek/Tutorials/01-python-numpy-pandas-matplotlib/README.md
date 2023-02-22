@@ -1,4 +1,4 @@
-### This Notebook covers python, numpy, pandas & matplotlib.
+### These notebooks cover python, numpy, pandas & matplotlib.
 
 Notebook | Link
 -------- | ----------
