@@ -10,6 +10,8 @@
 |----------------------|------|
 | Fall 2022 - Dr.Malek   |  [01-Fall2022](01-Fall2022-Dr.Malek/)        |
 | Spring 2023 - Dr.Malek |  [02-Spring2023](02-Spring2023-Dr.Malek/)    |
+| Fall 2023 - Dr.Malek |  [03-Fall2023-Dr.Malek](03-Fall2023-Dr.Malek/)    |
+| Fall 2023 - Dr.Riahi |  [04-Fall2023-Dr.Riahi](04-Fall2023-Dr.Riahi/)    |
 
 ### Current TAs
 - [Zahra Khotanlou](https://github.com/zkhotanlou)
