@@ -14,7 +14,12 @@
 | Fall 2023 - Dr.Riahi |  [04-Fall2023-Dr.Riahi](04-Fall2023-Dr.Riahi/)    |
 
 ### Current TAs
+- [Reyhaneh Naseri Moghaddam](https://github.com/ReyhaneMoghadam)
+- [Nima Lotfollahia](https://github.com/nimalotfo)
+- [Negin Mashayekhi](https://github.com/ngnma)
+- [Hesam Nasiri](https://github.com/Hsmnasiri)
 - [Zahra Khotanlou](https://github.com/zkhotanlou)
+- [Mohammadreza Mohammadzadeh Asl](https://github.com/Mohammadreza-mz)
 - [Mahdi Masoompour](https://github.com/masoom80)
 - [Amir Hallaji](https://amirhallaji.com)
 
@@ -23,7 +28,6 @@
 - [Hamid Saffari](https://github.com/hamidds)
 - [Amin Shafeie](https://github.com/mamin78) 
 - [Mahtab Sarlak](https://github.com/MahtabSarlak)
-- [Mohammadreza Mohammadzadeh Asl](https://github.com/Mohammadreza-mz)
 - [Matin Zivdar](https://github.com/zivdar001matin)
 - [Amir Masoud Shaker](https://github.com/MasoudShaker)
 - [Faezeh Sarlakifar](https://github.com/faezesarlakifar)
